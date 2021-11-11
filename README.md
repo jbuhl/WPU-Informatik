@@ -14,9 +14,13 @@ Ein Beispiel, wie man mit „Markdown“ findet man in diesem Dokument selbst. W
 
 ![readme_md_klick](bilder/readme_md_klick.png "Klicke auf Readme.md")
 
+
+
 und dann oberhalb des Texts auf das "<>"-Zeichen klickt, 
 
+
 ![readme_md_quelltext_klick](bilder/readme_md_quelltext_klick.png "Klicke auf '<>'")
+
 
 
 seht Ihr den Quelltext für diese Seite: 
