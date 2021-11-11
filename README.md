@@ -3,7 +3,7 @@ Documents and Tasks for my mid-level computer science class
 
 ## Wege durch den Informatikunterricht mit Herrn Buhl
 [Einführung](#einf)    
-
+[Bilder Einbinden](#bilder)
 
 ### Einführung<a name="einf"></a> 
 In diesem Kurs werden wir unsere Projekte protokollieren und festhalten. Diese Festhaltung und den von mir wahrgenommenen Fortschritt und Engagement werden die Grundlagen für Eure Note in diesem Kurs bilden. 
